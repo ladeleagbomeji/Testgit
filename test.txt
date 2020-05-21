@@ -1,1 +1,2 @@
 this is my first textfile
+I am a self taught programmer
